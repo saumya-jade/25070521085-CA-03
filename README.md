@@ -1,4 +1,4 @@
-# BlushBox (Giftora 2.0) - Personalized Gifting and Mystery Jar Platform
+# BlushBox - Personalized Gifting and Mystery Jar Platform
 
 Full-stack web app: React (Vite) + Node.js/Express + MongoDB (Mongoose).
 
